@@ -2,4 +2,4 @@
 Collection of docker cloud stacks
 
 
-[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy?repo=<https://github.com/opt-systems/docker-cloud-stack-gitlab-omnibus>)
+[![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=<https://github.com/opt-systems/docker-cloud-stack-gitlab-omnibus>)
