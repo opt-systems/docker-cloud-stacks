@@ -2,7 +2,7 @@
 
 ### Docker cloud: https://cloud.docker.com
 
-#### [Gitlab Omnibus - Gitlab-CE](https://github.com/gitlabhq/gitlabhq)
+#### [Gitlab Omnibus - Gitlab-CE](https://github.com/opt-systems/docker-cloud-stack-gitlab-omnibus)
 
 images:
 * [gitlab/gitlab-ce:latest](https://hub.docker.com/r/gitlab/gitlab-ce/)
